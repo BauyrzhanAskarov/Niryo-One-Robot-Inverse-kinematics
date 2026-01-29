@@ -1,4 +1,5 @@
 # Niryo-One — Forward & Inverse Kinematics (MATLAB + CoppeliaSim)
+![Robot Simulation](robot.png)
 
 ## Project description
 Analytic forward- and inverse-kinematics demo for a 6-DOF Niryo-One robot:
